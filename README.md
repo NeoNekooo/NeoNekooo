@@ -31,6 +31,6 @@
 <div align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="snake-dark.png" />
-    <img src="snake.png" width="70" alt="Ouroboros" />
+    <img src="snake.png" width="48" alt="Ouroboros" />
   </picture>
 </div>
