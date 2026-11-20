@@ -25,3 +25,12 @@
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
+
+<br/>
+
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="snake-dark.png" />
+    <img src="snake.png" width="70" alt="Ouroboros" />
+  </picture>
+</div>
