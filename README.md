@@ -29,8 +29,5 @@
 <br/>
 
 <div align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="snake-dark.png" />
-    <img src="snake.png" width="48" alt="Ouroboros" />
-  </picture>
+  <img src="snake-dark.png" width="45" alt="Ouroboros" />
 </div>
