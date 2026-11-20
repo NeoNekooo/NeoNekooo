@@ -3,12 +3,7 @@
 
   <h1>ฅ^•ﻌ•^ฅ Hi, I'm NeoNekooo 🐈‍⬛</h1>
 
-  <p>
-    just a black cat who like sleep<br/>
-    hello world welcome im NeoNekoooo<br/>
-    lelo lelo lelo lelo<br/>
-    meow meow meow meow
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=480&lines=just%20a%20black%20cat%20who%20like%20sleep;hello%20world%20welcome%20im%20NeoNekoooo;lelo%20lelo%20lelo%20lelo;meow%20meow%20meow%20meow" alt="" />
 </div>
 
 <br/>
