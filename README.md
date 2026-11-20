@@ -29,5 +29,5 @@
 <br/>
 
 <div align="left">
-  <img src="snake-dark.png" width="45" alt="Ouroboros" />
+  <img src="snake.gif" width="45" alt="Ouroboros" />
 </div>
